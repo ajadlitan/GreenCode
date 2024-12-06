@@ -5,7 +5,7 @@ pipeline {
 	    PROJECT_NAME = "Sample Application"
 		REPO_PATH = "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\GreenCode@2"
 		PYTHON_PATH = "C:\\Users\\DEV\\AppData\\Local\\Programs\\Python\\Python313\\python.exe"
-		PYTEST_PATH = "C:\\Users\\debas\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\pytest.exe"
+		PYTEST_PATH = "C:\\Users\\DEV\\AppData\\Local\\Programs\\Python\\Python313\\Scripts\\pytest.exe"
 		PATH = "C:\\apache-maven-3.9.9\\bin\\;$PATH"
 	}
     
